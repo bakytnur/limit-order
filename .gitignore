@@ -41,3 +41,4 @@ README.html
 .idea
 *.iml
 /.mvn/
+/.mvn/wrapper/
