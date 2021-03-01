@@ -39,5 +39,5 @@ dependency-reduced-pom.xml
 .gradle
 README.html
 .idea
-.mvn
 *.iml
+/.mvn/
